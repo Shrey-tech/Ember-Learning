@@ -1,0 +1,17 @@
+{
+  "name": "sample",
+  "description": "Small description for hello-ember goes here",
+  "main": "",
+  "authors": [
+    "shreyash@kiposh.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
